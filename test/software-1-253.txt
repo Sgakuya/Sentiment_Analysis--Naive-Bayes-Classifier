@@ -1,0 +1,1 @@
+Shells over IE, and destroys your box progressively. More unstable and vulnerable to attacks then plain vanilla IE. Run far far away.

@@ -1,0 +1,1 @@
+Decent OS, but basicly BSD UNIX with a facelift and Mac OS compatibility.

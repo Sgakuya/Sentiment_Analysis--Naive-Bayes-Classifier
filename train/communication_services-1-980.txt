@@ -1,0 +1,1 @@
+No coverage! Removed all analog trunking from this area.

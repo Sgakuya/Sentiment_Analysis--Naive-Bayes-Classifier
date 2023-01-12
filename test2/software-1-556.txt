@@ -1,0 +1,1 @@
+An excellent multi-user database, as long as you write software for one client and don't need any automated server utilities.

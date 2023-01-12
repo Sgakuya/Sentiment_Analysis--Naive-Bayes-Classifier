@@ -1,0 +1,1 @@
+Like Flanagan's JavaScript book, also by O'Reilly, this is a classic. Helps that it was written by the inventor of the language, and that he's as graceful with English as with Perl.

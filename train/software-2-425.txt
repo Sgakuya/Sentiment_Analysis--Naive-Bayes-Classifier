@@ -1,0 +1,1 @@
+A good stab at a 32-bit OS back in the day, but 98 kicked it in the butt hard.

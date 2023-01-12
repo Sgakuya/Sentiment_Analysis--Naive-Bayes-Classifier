@@ -1,0 +1,1 @@
+DOM Compatibility is very poor Slow response/load times Long bootup time 

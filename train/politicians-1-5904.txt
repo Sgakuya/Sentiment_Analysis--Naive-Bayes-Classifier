@@ -1,0 +1,1 @@
+Gets a 1 because scale doesn't do negative numbers.

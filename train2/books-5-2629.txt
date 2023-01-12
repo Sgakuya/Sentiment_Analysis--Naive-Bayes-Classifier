@@ -1,0 +1,1 @@
+This book and its companion, Thinking in C++, made several lightbulbs go off in my head when I was a beginning computer science student. He has a way of explaining some of the more complex topics like inheritance and data hiding in a very simple manner that even beginners can get. The next Eckel title on my download list is Thinking in Python .

@@ -1,0 +1,1 @@
+Version 9.4.3 of this software always locks up when trying to render a DVD or other video files. I'd highly advise anyone thinking of buying it to look elsewhere.
