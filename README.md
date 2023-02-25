@@ -1,6 +1,7 @@
 # Sentiment_Analysis--Naive-Bayes-Classifier
 
-A Naive-Bayes Classifier that attempts to classify reviews typed in through command-line or parsed as files as either positive or negative.
+A Naive-Bayes Classifier that attempts to classify reviews, typed in through command-line or parsed as files, as either positive or negative.
+
 ## Authors:
 Smith Gakuya, Yaqi Huang
 
