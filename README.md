@@ -13,11 +13,14 @@ Smith Gakuya, Yaqi Huang
 ## __Texts Classifier Failed at__
 1)Texts with double negatives which would be read as positive e.g.
 > It was not bad
+
 2)Texts without adjectives/adverbs i.e. words that have sentiment in context but not alone
 > I would return
+
 3)One word nouns because the nouns could have been used in a negative statement and
 are thus perceived to be negative even though they have no sentiment themselves
 > Pizza
+
 4)Misspelled words
 > i htd te ting
 
