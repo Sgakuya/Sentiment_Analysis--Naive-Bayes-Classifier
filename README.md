@@ -35,7 +35,7 @@ enough in most texts that we tested to have much of a difference.
 
 To improve the system, we could pay closer attention to punctuation and capitalization since in our
 system we read in the text and convert it all to lowercase for easier classification. We also included 
-bigrams in our analysis as opposed to monograms.
+bigrams in our analysis as opposed to unigrams.
 
 _Best results:_
 Accuracy: 89.1%
