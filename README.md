@@ -34,12 +34,13 @@ only saw a minimal difference in total accuracy 0-2%. We assume perhaps the bigr
 enough in most texts that we tested to have much of a difference.
 
 To improve the system, we could pay closer attention to punctuation and capitalization since in our
-system we read in the text and convert it all to lowercase for easier classification
+system we read in the text and convert it all to lowercase for easier classification. We also included 
+bigrams in our analysis as opposed to monograms.
 
 _Best results:_
-Accuracy: 74.12371872984016%
-Precision(positive): 75.8%
-Precision(negative): 72.43562077398936%
+Accuracy: 89.1%
+Precision(positive): 85.8%
+Precision(negative): 92.4%
 
 _Base results:_
 Accuracy: 74.12013475736507%
